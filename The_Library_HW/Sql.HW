@@ -8,7 +8,7 @@ where result_status='Pass'
 select 
 avg(total_score) 
 from day_2_exam 
-where result_status='Pass'
+where result_status='Fail'
 
 -- 3.Highest Score among all students
 select 
